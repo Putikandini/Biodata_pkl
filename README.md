@@ -1,2 +1,2 @@
-# myfirstrepository
-ini pertama kali saya membuat repository di Github
+# Putik andini/Biodata
+tugas PKL
